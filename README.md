@@ -1,4 +1,4 @@
-# Nikhil Nigam
+# Nikhil R. Nigam
 
 **Machine Learning Engineer** | Systems over Scripts.
 
@@ -18,18 +18,18 @@ I engineer the infrastructure that makes AI reliable. My focus is on the "messy 
 **[Distributed LLM Lab](https://nnigam96.github.io/projects/distributed-llm-lab)**
 A production-grade monorepo for distributed AI systems. Implements **Speculative Decoding** (Mac/Windows hybrid inference) and **Federated Learning** (privacy-preserving training) using raw TCP sockets and custom binary protocols.
 
-**[Machine Translation System](https://nnigam96.github.io/projects/de_to_en_translator)**
+**[Machine Translation System](https://nnigam96.github.io/projects/machine-translation)**
 Built a Transformer from scratch (PyTorch) to translate German to English. Implemented custom multi-head attention and positional encodings to understand the architecture from first principles.
 
-**[Doc-Assist RAG](https://nnigam96.github.io/projects/doc_assist)**
+**[Doc-Assist RAG](https://nnigam96.github.io/projects/doc-assist-rag)**
 Architected a privacy-first document Q&A system. Combines **FAISS** vector search with local quantized **LLaMA 2** inference to ensure zero data egress for sensitive documents.
 
-**[Generative MRI Restoration](https://nnigam96.github.io/projects/DDM2)**
+**[Generative MRI Restoration](https://nnigam96.github.io/projects/mri-denoising-pipeline)**
 Adapted Stable Diffusion to replace slow, iterative MRI correction with single-pass generative inference. Achieved a **68% reduction in structural error** (SSIM) on medical imaging data.
 
 ---
 
-### Technical Stack
+### ⚡ Technical Stack
 * **Core:** Python, PyTorch, Lightning, SQL
 * **Agentic:** LangChain, Ollama, MCP (Model Context Protocol)
 * **Infra:** AWS (EC2, S3), Docker, Milvus, MLflow

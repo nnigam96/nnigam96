@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer** | Systems over Scripts.
 
-I engineer the infrastructure that makes AI reliable. My focus is on the "messy middle" of ML—taking research concepts and hardening them into high-availability production systems. I specialize in low-latency Retrieval Systems, Privacy-First Architectures, and Agentic Platforms.
+I engineer the infrastructure that makes AI reliable. My focus is on the "messy middle" of ML, taking research concepts and hardening them into high-availability production systems. I specialize in low-latency Retrieval Systems, Privacy-First Architectures, and Agentic Platforms.
 
 ---
 
